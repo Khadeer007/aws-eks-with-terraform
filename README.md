@@ -1,5 +1,4 @@
 # aws-eks-with-terraform
-Create and Deploy AWS EKS Cluster with Terraform.
 Amazon EKS (Elastic Kubernetes Service) is a managed container service to run and scale Kubernetes applications in the cloud or on-premises.
 
 HashiCorp Terraform is an Infrastructure as Code (IaC) tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.
